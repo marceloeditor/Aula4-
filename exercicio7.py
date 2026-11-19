@@ -15,6 +15,6 @@ else :
     ingresso = False
 
 if aniversariante == True or ingresso == True :
-    print ( "acesso liberadoi ")
+    print ( "Pode entrar ")
 else :
-    print ( " Acesso negado , compre um ingresso ")
+    print ( " Acesso negado , compre um ingresso seu caloteiro ")
